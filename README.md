@@ -1,1 +1,1 @@
-# vue-messenger
+# messenger-vue
