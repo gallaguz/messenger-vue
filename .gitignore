@@ -1,1 +1,8 @@
 /.idea/
+/mysql/db_files/
+/mongodb/db_files/
+/postgres/db_files/
+/socket/node_modules/
+/server/node_modules/
+/client/node_modules/
+/client/dist/
